@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  4 09:46:26 2026
-
-@author: Javier GN
-"""
 
 def air_density_isa(h):
     """
