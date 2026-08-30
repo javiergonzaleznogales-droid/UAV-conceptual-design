@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 13 09:33:14 2026
-
-@author: Javier GN
-"""
 
 import math
 
